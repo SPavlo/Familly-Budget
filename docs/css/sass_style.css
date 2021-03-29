@@ -337,7 +337,7 @@ footer .footer_block .footer_email:hover {
   text-decoration: underline;
 }
 footer .footer_block .footer_logo {
-  background: url("../../img/logo.svg") no-repeat;
+  background: url("../img/logo.svg") no-repeat;
   padding: 12px 0px 10px 45px;
 }
 footer .reserved {
