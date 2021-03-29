@@ -290,7 +290,7 @@ h6 {
   justify-content: space-between;
 }
 .menu .brand {
-  background: url("../../img/logo.svg") no-repeat;
+  background: url("../img/logo.svg") no-repeat;
   padding: 12px 0px 10px 45px;
 }
 .menu li {
